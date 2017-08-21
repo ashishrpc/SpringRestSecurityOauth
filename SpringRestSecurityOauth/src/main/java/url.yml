@@ -1,0 +1,24 @@
+https://www.hsc.com/Portals/0/Uploads/Articles/WP_Securing_RESTful_WebServices_OAuth2635406646412464000.pdf
+
+STEP 1: 
+
+For get token and refresh token.
+
+/oauth/token?grant_type=password&client_id=restapp&client_secret=restapp
+&username=sanjeet&password=sanjeet123
+
+STEP2 :
+
+For access resource.
+
+/api/users/?access_token=bb720533-64c2-406b-88a5-8439faecde60
+
+
+STEP3:
+
+In case token expire
+
+oauth/token?grant_type=refresh_token&client_id=restapp&client_secret=restapp&refresh_token= ?
+
+
+{"access_token":"bb720533-64c2-406b-88a5-8439faecde60","token_type":"bearer","refresh_token":"5250b5c6-2427-48d8-ad37-168445805585","expires_in":4499}
