@@ -9,6 +9,8 @@ https://gigsterous.github.io/engineering/2017/03/01/spring-boot-4.html (first tw
 https://dzone.com/articles/advanced-microservices-security-with-spring-and-oa (Advanced Microservices Security with Spring and OAuth2)
 http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/ (configure by programing, security can be manage either by XML or programing )
 
+https://curl.haxx.se/dlwiz/?cpu=x86_64&flav=-&os=Win64&type=bin&ver=* (download for curl command )
+
 STEP 1: 
 
 For get token and refresh token.
