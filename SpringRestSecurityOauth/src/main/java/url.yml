@@ -1,5 +1,14 @@
 https://www.hsc.com/Portals/0/Uploads/Articles/WP_Securing_RESTful_WebServices_OAuth2635406646412464000.pdf
 
+http://www.beingjavaguys.com/2014/10/spring-security-oauth2-integration.html (this build taken from mention site(github) with the help of Sanjeet)
+https://github.com/ariphidayat/springmvc-rest-oauth2 (This example architecture is similar to sanjeet's build)
+https://github.com/ariphidayat/springmvc-oauth2-example (good example for SpringMVC security) ~~~ https://github.com/endymuhardin/belajar-springoauth2
+https://alexbilbie.com/guide-to-oauth-2-grants/ (provide details for spring-security.xml)
+http://projects.spring.io/spring-security-oauth/docs/oauth2.html (provide details for spring-security.xml)
+https://gigsterous.github.io/engineering/2017/03/01/spring-boot-4.html (first two paragraph, provide details for spring-security.xml and spring boot implementation)
+https://dzone.com/articles/advanced-microservices-security-with-spring-and-oa (Advanced Microservices Security with Spring and OAuth2)
+http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/ (configure by programing, security can be manage either by XML or programing )
+
 STEP 1: 
 
 For get token and refresh token.
